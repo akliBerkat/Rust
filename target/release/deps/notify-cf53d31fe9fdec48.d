@@ -1,0 +1,12 @@
+/home/akli/Documents/ESGI/Rust/rustlings/target/release/deps/libnotify-cf53d31fe9fdec48.rmeta: /home/akli/.cargo/registry/src/index.crates.io-6f17d22bba15001f/notify-4.0.17/src/lib.rs /home/akli/.cargo/registry/src/index.crates.io-6f17d22bba15001f/notify-4.0.17/src/inotify.rs /home/akli/.cargo/registry/src/index.crates.io-6f17d22bba15001f/notify-4.0.17/src/null.rs /home/akli/.cargo/registry/src/index.crates.io-6f17d22bba15001f/notify-4.0.17/src/poll.rs /home/akli/.cargo/registry/src/index.crates.io-6f17d22bba15001f/notify-4.0.17/src/debounce/mod.rs /home/akli/.cargo/registry/src/index.crates.io-6f17d22bba15001f/notify-4.0.17/src/debounce/timer.rs
+
+/home/akli/Documents/ESGI/Rust/rustlings/target/release/deps/libnotify-cf53d31fe9fdec48.rlib: /home/akli/.cargo/registry/src/index.crates.io-6f17d22bba15001f/notify-4.0.17/src/lib.rs /home/akli/.cargo/registry/src/index.crates.io-6f17d22bba15001f/notify-4.0.17/src/inotify.rs /home/akli/.cargo/registry/src/index.crates.io-6f17d22bba15001f/notify-4.0.17/src/null.rs /home/akli/.cargo/registry/src/index.crates.io-6f17d22bba15001f/notify-4.0.17/src/poll.rs /home/akli/.cargo/registry/src/index.crates.io-6f17d22bba15001f/notify-4.0.17/src/debounce/mod.rs /home/akli/.cargo/registry/src/index.crates.io-6f17d22bba15001f/notify-4.0.17/src/debounce/timer.rs
+
+/home/akli/Documents/ESGI/Rust/rustlings/target/release/deps/notify-cf53d31fe9fdec48.d: /home/akli/.cargo/registry/src/index.crates.io-6f17d22bba15001f/notify-4.0.17/src/lib.rs /home/akli/.cargo/registry/src/index.crates.io-6f17d22bba15001f/notify-4.0.17/src/inotify.rs /home/akli/.cargo/registry/src/index.crates.io-6f17d22bba15001f/notify-4.0.17/src/null.rs /home/akli/.cargo/registry/src/index.crates.io-6f17d22bba15001f/notify-4.0.17/src/poll.rs /home/akli/.cargo/registry/src/index.crates.io-6f17d22bba15001f/notify-4.0.17/src/debounce/mod.rs /home/akli/.cargo/registry/src/index.crates.io-6f17d22bba15001f/notify-4.0.17/src/debounce/timer.rs
+
+/home/akli/.cargo/registry/src/index.crates.io-6f17d22bba15001f/notify-4.0.17/src/lib.rs:
+/home/akli/.cargo/registry/src/index.crates.io-6f17d22bba15001f/notify-4.0.17/src/inotify.rs:
+/home/akli/.cargo/registry/src/index.crates.io-6f17d22bba15001f/notify-4.0.17/src/null.rs:
+/home/akli/.cargo/registry/src/index.crates.io-6f17d22bba15001f/notify-4.0.17/src/poll.rs:
+/home/akli/.cargo/registry/src/index.crates.io-6f17d22bba15001f/notify-4.0.17/src/debounce/mod.rs:
+/home/akli/.cargo/registry/src/index.crates.io-6f17d22bba15001f/notify-4.0.17/src/debounce/timer.rs:
